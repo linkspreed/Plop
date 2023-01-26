@@ -1,8 +1,8 @@
-# <img align="left" alt="Plop" width="40px" src="https://linklab.ga/uploads/logo/9dc6a0c92e068ba9ed684f0ce66b434b.png" draggable="false" /> Plop ([Click to try 🚀](https://plop.tk)) (v22.0.0)
+# <img align="left" alt="Plop" width="40px" src="https://plop.tk/uploads/main/91a09054b8a79034e13ac77c21dce04f.png" draggable="false" /> Plop ([Click to try 🚀](https://plop.tk)) (v22.0.0)
 
-LinkLab ⚙️💜 - create attractive 🎋 and powerful banners for your website 🌐
+Plop 🔔 - Send your UI messages on your own website 🗨️
 
-## **[Changelog 💜](https://github.com/linkspreed/Plop/blob/main/changelog.txt)** **Check out the full Plop changelog**
+## **[Changelog 🔔](https://github.com/linkspreed/Plop/blob/main/changelog.txt)** **Check out the full Plop changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Plop/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Plop besides development**
 
 
