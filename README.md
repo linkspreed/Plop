@@ -58,16 +58,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Welcome
-<img align="center" alt="LinkLab" width="3000px" src="https://github.com/linkspreed/LinkLab/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Plop" width="3000px" src="https://github.com/linkspreed/Plop/blob/main/Screenshots/1.png" draggable="false" />
 
 ### Register now
-<img align="center" alt="LinkLab" width="3000px" src="https://github.com/linkspreed/LinkLab/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Plop" width="3000px" src="https://github.com/linkspreed/Plop/blob/main/Screenshots/2.png" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="LinkLab" width="3000px" src="https://github.com/linkspreed/LinkLab/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Plop" width="3000px" src="https://github.com/linkspreed/Plop/blob/main/Screenshots/3.png" draggable="false" />
 
 ### Free Unlimited
-<img align="center" alt="LinkLab" width="3000px" src="https://github.com/linkspreed/LinkLab/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Plop" width="3000px" src="https://github.com/linkspreed/Plop/blob/main/Screenshots/4.png" draggable="false" />
 
 ### Create campaign
-<img align="center" alt="LinkLab" width="3000px" src="https://github.com/linkspreed/LinkLab/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Plop" width="3000px" src="https://github.com/linkspreed/Plop/blob/main/Screenshots/5.png" draggable="false" />
