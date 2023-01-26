@@ -1,11 +1,9 @@
-# <img align="left" alt="LinkLab" width="40px" src="https://linklab.ga/uploads/logo/9dc6a0c92e068ba9ed684f0ce66b434b.png" draggable="false" /> LinkLab ([Click to try 🚀](https://linklab.ga)) (v22.0.0)
+# <img align="left" alt="Plop" width="40px" src="https://linklab.ga/uploads/logo/9dc6a0c92e068ba9ed684f0ce66b434b.png" draggable="false" /> Plop ([Click to try 🚀](https://plop.tk)) (v22.0.0)
 
 LinkLab ⚙️💜 - create attractive 🎋 and powerful banners for your website 🌐
 
-
-
-## **[Changelog 💜](https://github.com/linkspreed/LinkLab/blob/main/changelog.txt)** **Check out the full LinkLab changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/LinkLab/blob/main/Special_Works.md)** **Take a look at what changes we are doing to LinkLab besides development**
+## **[Changelog 💜](https://github.com/linkspreed/Plop/blob/main/changelog.txt)** **Check out the full Plop changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Plop/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Plop besides development**
 
 
 <div align="center">
@@ -43,7 +41,7 @@ LinkLab ⚙️💜 - create attractive 🎋 and powerful banners for your websit
 
 ## More
  
-LinkLab is **free**, **real-time** and with **unlimited** resources 
+Plop is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -54,7 +52,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy LinkLab freely and use all features to an unlimited extent.
+ You can enjoy Plop freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
