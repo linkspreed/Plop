@@ -1,3 +1,6 @@
+### 01.04.2023 (announcement Plop)
+- 🎉 Exciting news! 🎉 We're currently working on a new update for **Plop** 📱 Stay tuned for some awesome new features coming your way! #PlopUpdate #NewFeatures #ComingSoon 🚀
+
 ### 26.01.2023 (announcement Plop)
 - https://github.com/linkspreed/Plop/blob/main/changelog.txt
 - The entire changelog is now available on Github.
