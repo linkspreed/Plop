@@ -1,3 +1,27 @@
+### 10.06.2023 (announcement Plop)
+- 🎉 It's official! Version 25.0.0 of Plop has been released and we couldn't be more proud! 🙌🏼 Check out the online update now and find the latest documentation and changelog on Github. Have you updated yet? Share your experience with us! #plop #update #github 💻
+
+### 10.06.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 10.06.2023 (announcement Plop)
+- The launch of version 25.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 10.06.2023 (announcement Plop)
+- We are now starting the launch of v25.0.0 .
+
+### 10.06.2023 (announcement Plop)
+- The servers are now ready for the launch of version 25.0.0 for **Plop**.
+
+### 10.06.2023 (announcement Plop)
+- The code is now ready for the launch of version 25.0.0 for **Plop**.
+
+### 10.06.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v25.0.0 . 😍
+
 ### 13.05.2023 (announcement Plop)
 - 🎉 Big news! 🎉 We are thrilled to announce that the latest version of Plop, v24.0.0, is now offering its API system FOR FREE to all users! 🤩📚 And guess what? We've prepared a comprehensive documentation to guide you through every step! 📑💻📝 Ready to explore? 🌟 #PlopAPI #FreeForAll #TechTuesday 💻👨‍💻👩‍💻 Have you tried Plop's API system before? Let us know in the comments! ⬇️👀
 
