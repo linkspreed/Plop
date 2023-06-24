@@ -1,3 +1,6 @@
+### 24.06.2023 (announcement Plop)
+- 🎉 Exciting news! We just added Plop to our subdomain system 🚀 Now, when you visit https://plop.tk, you'll be redirected to https://plop.linkspreed.com. Don't worry, everything will work the same way as before, we just made some technical updates in the background 🔧 Have you already tried it out? Let us know in the comments below! #PlopUpgrade #SubdomainSystem #Linkspreed 💻
+
 ### 10.06.2023 (announcement Plop)
 - 🎉 It's official! Version 25.0.0 of Plop has been released and we couldn't be more proud! 🙌🏼 Check out the online update now and find the latest documentation and changelog on Github. Have you updated yet? Share your experience with us! #plop #update #github 💻
 
