@@ -1,4 +1,4 @@
-Update 26.0.0 - 18 July, 2023
+Update 26.0.0 - 20 July, 2023
 
 Implemented new internal notifications system for users and admins.
 Implemented internal notifications broadcasts to users from the admin panel.
