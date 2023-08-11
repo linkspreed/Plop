@@ -1,3 +1,27 @@
+### 11.08.2023 (announcement Plop)
+- 📢 Exciting news, folks! 🎉 Introducing Plop Version 27.0.0, now available online! 🚀 Check out the latest patch notes on Github, and make sure you have the newest version installed. 🌟 Let's hear your thoughts! Share your experience with #Plop27 and tell us how it's working for you. Any questions or feedback? Drop them below! 👇 #SoftwareUpdate #TechTalk
+
+### 11.08.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 11.08.2023 (announcement Plop)
+- The launch of version 27.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 11.08.2023 (announcement Plop)
+- We are now starting the launch of v27.0.0.
+
+### 11.08.2023 (announcement Plop)
+- The servers are now ready for the launch of version 27.0.0 for **Plop**.
+
+### 11.08.2023 (announcement Plop)
+- The code is now ready for the launch of version 27.0.0 for **Plop**.
+
+### 11.08.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v27.0.0 . 😍
+
 ### 20.07.2023 (announcement Plop)
 - Hey Plop fam! 🎉 We've just dropped Plop Version 26.0.0! 🚀💥 It's packed with amazing features and bug fixes. 🙌🔥 Have you updated yet? If so, what's your favorite improvement? Share with us! 😄✨ #PlopVersion26 #NewRelease #UpgradeTime
 
