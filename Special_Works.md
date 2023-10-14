@@ -1,3 +1,27 @@
+### 14.10.2023 (announcement Plop)
+- Plop 29.0.0 is here! 🎉 This powerful update is packed with new features to help you get the most out of Plop.
+
+### 14.10.2023 (announcement Plop)
+-  https://github.com/linkspreed/Plop/blob/main/changelog.txt
+- The entire changelog is now available on Github.
+
+### 14.10.2023 (announcement Plop)
+- The launch of version 29.0.0 of **Plop ** was successful! 🥳
+- The new update is live now :)
+- https://plop.tk 🔗
+
+### 14.10.2023 (announcement Plop)
+- We are now starting the launch of v29.0.0.
+
+### 14.10.2023 (announcement Plop)
+- The servers are now ready for the launch of version 29.0.0 for **Plop**.
+
+### 14.10.2023 (announcement Plop)
+- The code is now ready for the launch of version 29.0.0 for **Plop**.
+
+### 14.10.2023 (announcement Plop)
+-  **Plop** gets a big update today - we are going to launch v29.0.0. 😍
+
 ### 08.10.2023 (announcement Plop)
 - Plop 28.0.0 is live! 💥 What new features are you most excited to try? 🤔 #Plop #NewVersion #IoT
 
