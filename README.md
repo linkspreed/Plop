@@ -1,4 +1,4 @@
-# <img align="left" alt="Plop" width="150px" src="https://plop.tk/uploads/main/91a09054b8a79034e13ac77c21dce04f.png" draggable="false" /> ([Click to try 🚀](https://plop.tk)) (v29.0.0)
+# <img align="left" alt="Plop" width="150px" src="https://github.com/linkspreed/Plop/assets/102324985/0b071727-2f07-46e3-8677-e3aa7d1dd167" draggable="false" /> ([Click to try 🚀](https://plop.tk)) (v31.0.0)
 
 Plop 🔔 - Send your UI messages on your own website 🗨️
 
